@@ -1,0 +1,15 @@
+D:\Семинар 9с\Example\objective2\bin\Debug\net6.0\objective2.exe
+D:\Семинар 9с\Example\objective2\bin\Debug\net6.0\objective2.deps.json
+D:\Семинар 9с\Example\objective2\bin\Debug\net6.0\objective2.runtimeconfig.json
+D:\Семинар 9с\Example\objective2\bin\Debug\net6.0\objective2.dll
+D:\Семинар 9с\Example\objective2\bin\Debug\net6.0\objective2.pdb
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.csproj.AssemblyReference.cache
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.AssemblyInfoInputs.cache
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.AssemblyInfo.cs
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.csproj.CoreCompileInputs.cache
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.dll
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\refint\objective2.dll
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.pdb
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\objective2.genruntimeconfig.cache
+D:\Семинар 9с\Example\objective2\obj\Debug\net6.0\ref\objective2.dll

@@ -1,0 +1,15 @@
+D:\Семинар 9с\Example\objective6\bin\Debug\net6.0\objective6.exe
+D:\Семинар 9с\Example\objective6\bin\Debug\net6.0\objective6.deps.json
+D:\Семинар 9с\Example\objective6\bin\Debug\net6.0\objective6.runtimeconfig.json
+D:\Семинар 9с\Example\objective6\bin\Debug\net6.0\objective6.dll
+D:\Семинар 9с\Example\objective6\bin\Debug\net6.0\objective6.pdb
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.csproj.AssemblyReference.cache
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.AssemblyInfoInputs.cache
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.AssemblyInfo.cs
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.csproj.CoreCompileInputs.cache
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.dll
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\refint\objective6.dll
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.pdb
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\objective6.genruntimeconfig.cache
+D:\Семинар 9с\Example\objective6\obj\Debug\net6.0\ref\objective6.dll
